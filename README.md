@@ -83,8 +83,8 @@ pip install -r requirements.txt
 ---
 
 👨‍💻 Authors
-- Bipasha Acharje – [LinkedIn](www.linkedin.com/in/bipasha-acharjee-b34939253) | [GitHub](https://github.com/Bipasha1005)
-- Jisniti Dolai - [Linkdin](https://www.linkedin.com/in/jisniti-dolai-a2aa05291/) | [Github]()
+- Bipasha Acharjee – [LinkedIn](https://www.linkedin.com/in/bipasha-acharjee-b34939253/) | [GitHub](https://github.com/Bipasha1005)
+- Jisniti Dolai - [LinkdIn](https://www.linkedin.com/in/jisniti-dolai-a2aa05291/) | [Github]()
 
 ---
 

@@ -58,12 +58,13 @@ The dataset used is sourced from [Kaggle: Customer Support on Twitter](https://w
 
 ## 📸 Sample Output
 
-Query: @AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened😡
-Summary: Tapped notification under keyboard issue
-Actions: ['general inquiry']
-Routed To: General Support
-Recommended Solution: Please restart your device and check notification settings.
-Estimated Resolution Time: 8 hours
+**Query**: @AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened😡  
+**Summary**: Tapped notification under keyboard issue  
+**Actions**: `['general inquiry']`  
+**Routed To**: **General Support**  
+**Recommended Solution**: Please restart your device and check notification settings.  
+**Estimated Resolution Time**: **8 hours**
+
 
 
 ---

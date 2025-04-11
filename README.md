@@ -56,5 +56,36 @@ The dataset used is sourced from [Kaggle: Customer Support on Twitter](https://w
 
 ---
 
+## 📸 Sample Output
+
+Query: @AppleSupport causing the reply to be disregarded and the tapped notification under the keyboard is opened😡
+Summary: Tapped notification under keyboard issue
+Actions: ['general inquiry']
+Routed To: General Support
+Recommended Solution: Please restart your device and check notification settings.
+Estimated Resolution Time: 8 hours
 
 
+---
+
+## 🏁 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/customer-support-ai
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebook or script
+```
+
+---
+
+👨‍💻 Authors
+- Bipasha Acharje – [LinkedIn](www.linkedin.com/in/bipasha-acharjee-b34939253) | [GitHub](https://github.com/Bipasha1005)
+- Jisniti Dolai - [Linkdin](https://www.linkedin.com/in/jisniti-dolai-a2aa05291/) | [Github]()
+
+---
+
+Would you like me to save this to a file (`README.md`) or help you publish this to a GitHub repo?

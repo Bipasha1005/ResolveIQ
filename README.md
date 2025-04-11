@@ -86,6 +86,3 @@ pip install -r requirements.txt
 - Bipasha Acharjee – [LinkedIn](https://www.linkedin.com/in/bipasha-acharjee-b34939253/) | [GitHub](https://github.com/Bipasha1005)
 - Jisniti Dolai - [LinkdIn](https://www.linkedin.com/in/jisniti-dolai-a2aa05291/) | [Github](https://github.com/Jisniti)
 
----
-
-Would you like me to save this to a file (`README.md`) or help you publish this to a GitHub repo?

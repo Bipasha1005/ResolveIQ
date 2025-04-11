@@ -72,7 +72,7 @@ Estimated Resolution Time: 8 hours
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/customer-support-ai
+https://github.com/Bipasha1005/ResolveIQ.git
 
 # Install dependencies
 pip install -r requirements.txt
